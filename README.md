@@ -69,5 +69,6 @@ streamlit run app.py
 
 ## Авторы и ссылки
 - **Датасет:** Meliani A. E., Arora S., Ksentini A., Knopp R. *TimeTrack: A dataset for exploring temporal patterns and predictive insights into OpenAirInterface (OAI) CI/CD cluster*. IEEE ICC 2025.
+- **Исходный код и обучение:** [Colab-ноутбук](https://colab.research.google.com/drive/16KxAhctv4ofxSHCLTT2C6SbL1TzFSJNM?usp=sharing)
 - **Проект:** Разработан в учебных целях для демонстрации применения машинного обучения в задачах телекоммуникаций.
 - **Веб-интерфейс:** Разработан с помощью `Cursor`.
